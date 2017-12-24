@@ -1,2 +1,0 @@
-# Sales-Script
-Sales Script
